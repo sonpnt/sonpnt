@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, I’m @sonpnt
-- 👀 I’m interested in application of machine learning in finance.
-- 🌱 I’m currently learning different programming languages.
-- 💞️ I’m looking to collaborate on application of machine learning on investment.
+- 👀 I’m interested in building data analytics tools for financial sector.
+- 🌱 I’m currently working on a project called Trade Evaluation. The project aims at enabling investor to manage hypothetical portfolios, implement their trading strategies and providing them an automated tool with comprehensive analyses of the risks and returns performance of their portfolios.
+- 💞️ I’m looking to collaborate on the project above or any projects that involve building a useful financial data analytics application.
 - 📫 Reach me via email: pnthanhson.ftu2@gmail.com
+- 💬 Visit my personal page for more information: sphanfinance.com/aboutme
 
 <!---
 sonpnt/sonpnt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
