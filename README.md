@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👋 Hi, I’m @sonpnt
+- 👋 Hi, I’m Son Phan
 - 👀 I’m interested in building data analytics tools for financial sector.
 - 🌱 I’m currently working on a project called [Trade Evaluation](https://sphanfinance.com/). The project aims at enabling investor to manage hypothetical portfolios, implement their trading strategies and providing them an automated tool with comprehensive risk-return analyses.
 - 💞️ I’m looking to collaborate on the project above or any projects that involve building a useful financial data analytics application.
